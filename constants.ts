@@ -159,4 +159,4 @@ export const CONTACT_INFO = {
   email: 'contact@silkai.studio',
 };
 
-export const LOGO_URL = "https://drive.google.com/thumbnail?id=1lsxRhWkSJOexGgKJtGJq2cwgPy32TdJW&sz=w1000";
+export const LOGO_URL = "https://youke2.picui.cn/s1/2025/12/11/693a189e7d580.png";

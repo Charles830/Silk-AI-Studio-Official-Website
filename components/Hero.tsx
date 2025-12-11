@@ -15,7 +15,7 @@ export const Hero: React.FC<HeroProps> = ({ lang }) => {
       {/* Ambient Background Gradients */}
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[600px] bg-silk-200/50 dark:bg-silk-900/20 rounded-full blur-[120px] -z-10" />
       
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center text-center z-10">
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center text-center z-10">
         <div className="inline-flex items-center space-x-3 px-4 py-2 rounded-full bg-white/50 dark:bg-slate-800/50 border border-silk-200 dark:border-slate-700 mb-10 animate-fade-in">
           <div className="relative h-6 w-6 overflow-hidden rounded-full">
              <img 
