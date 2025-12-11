@@ -47,7 +47,7 @@ export const About: React.FC<AboutProps> = ({ lang }) => {
             <div className="relative h-full min-h-[400px] rounded-3xl overflow-hidden bg-slate-200 dark:bg-slate-700 shadow-xl">
                {/* Abstract Representation of 'Silk' + 'AI' */}
                <img 
-                  src="https://drive.google.com/thumbnail?id=1LAO-eDuP0Gp81qfqafJmSNeDd08dNDTS&sz=w1000"
+                  src="https://youke2.picui.cn/s1/2025/12/11/693a21ec7debc.jpg"
                   alt="About Silk AI Studio"
                   className="absolute inset-0 w-full h-full object-cover opacity-90 hover:scale-110 transition-transform duration-1000"
                />
