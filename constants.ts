@@ -42,17 +42,17 @@ export const translations: Record<Language, ContentData> = {
         {
           title: '自研智能体开发平台',
           desc: '一站式 Agent 编排与部署环境，支持多模态交互与插件扩展。',
-          image: 'https://drive.google.com/thumbnail?id=1QWSwcXnYJGllkBRAY8T82wXXhn1pb_Yp&sz=w1000',
+          image: 'https://youke2.picui.cn/s1/2025/12/11/693a2333890c6.jpg',
         },
         {
           title: 'AI 驱动数字人平台',
           desc: '实时驱动引擎，让数字人具备如同真人的表情、动作与语音交互能力。',
-          image: 'https://drive.google.com/thumbnail?id=1pnN_ttQNgQAVOQohWmgKzHSmLiVFvHlL&sz=w1000',
+          image: 'https://youke2.picui.cn/s1/2025/12/11/693a23026c332.jpg',
         },
         {
           title: 'Vibe Coding 解决方案平台',
           desc: '零门槛代码生成与应用托管，加速数字化产品落地周期。',
-          image: 'https://drive.google.com/thumbnail?id=1lllZH5pDbG1uo8Fs61mOi3ylr3fU18uA&sz=w1000',
+          image: 'https://youke2.picui.cn/s1/2025/12/11/693a23597b3ee.jpg',
         },
       ],
     },
@@ -117,17 +117,17 @@ export const translations: Record<Language, ContentData> = {
         {
           title: 'Agent Development Platform',
           desc: 'One-stop Agent orchestration and deployment environment supporting multimodal interaction.',
-          image: 'https://drive.google.com/thumbnail?id=1QWSwcXnYJGllkBRAY8T82wXXhn1pb_Yp&sz=w1000',
+          image: 'https://youke2.picui.cn/s1/2025/12/11/693a2333890c6.jpg',
         },
         {
           title: 'AI-Driven Digital Human Platform',
           desc: 'Real-time driving engine enabling digital humans to have lifelike expressions and interactions.',
-          image: 'https://drive.google.com/thumbnail?id=1pnN_ttQNgQAVOQohWmgKzHSmLiVFvHlL&sz=w1000',
+          image: 'https://youke2.picui.cn/s1/2025/12/11/693a23026c332.jpg',
         },
         {
           title: 'Vibe Coding Solution Platform',
           desc: 'Zero-threshold code generation and app hosting to accelerate product launch cycles.',
-          image: 'https://drive.google.com/thumbnail?id=1lllZH5pDbG1uo8Fs61mOi3ylr3fU18uA&sz=w1000',
+          image: 'https://youke2.picui.cn/s1/2025/12/11/693a23597b3ee.jpg',
         },
       ],
     },
